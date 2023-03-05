@@ -1,3 +1,4 @@
+![bird-watcher](https://user-images.githubusercontent.com/44240533/222984587-6dceaaca-25f2-499a-b904-4709e1a171e0.svg)
 # Bird Watcher
 
 Welcome to Bird Watcher on Exercism's Java Track.
